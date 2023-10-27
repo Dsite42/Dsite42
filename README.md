@@ -2,7 +2,14 @@
 
 | Rank | Project | Language | Short Summary |
 |:----:|:-------:|:--------:|:-------------:|
-| 1    | [libft](https://github.com/Dsite42/Libft) | C | 42 Project - Libft - This project is about to write our own version of a set of functions from the standard libc and also some that are either not in the libc, or that are part of it but in a different form. |
+| 00 | [libft](https://github.com/Dsite42/Libft) | C | 42 Project - Libft - This project is about to write our own version of a set of functions from the standard libc and also some that are either not in the libc, or that are part of it but in a different form. |
+| 01 | [ft_printf](https://github.com/Dsite42/ft_printf) | C | 42 Project - ft_printf - This project is about to write our own printf function by understanding and using variadic functions. |
+| 01 | [get_next_line](https://github.com/Dsite42/get_next_line) | C | 42 Project - get_next_line - This project is about programming a function that returns a line read from a file descriptor. |
+| 02 | [pipex](https://github.com/Dsite42/pipex) | C | 42 project - pipex - This project is about to learn and implement the concepts of redirections, pipes, child and parent processes. |
+| 02 | [push_swap](https://github.com/Dsite42/push_swap) | C | 42 project - push_swap - This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. |
+| 02 | [fdf](https://github.com/Dsite42/fdf) | C | 42 project - fdf - This project is the first graphical project and is about representing a landscape as a 3D object in which all surfaces are outlined in lines (wireframe model) by unsing the 42 school graphical library: the MiniLibX!. |
+
+
 <!--
 **Dsite42/Dsite42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
