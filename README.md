@@ -11,11 +11,11 @@
 | 03 | [minishell](https://github.com/Dsite42/minishell) | C | 42 project - minishell - This project involves creating a simplified version of a Unix shell. |
 | 03 | [philosophers](https://github.com/Dsite42/philosophers) | C | 42 project - philosophers - This project is about learning the basics of threading a process, creating threads and mutexes.|
 | 04 | [cub3D](https://github.com/Dsite42/cub3D) | C | 42 project - cub3D - This project is inspired by the world-famous eponymous 90's game Wolfenstein 3D. It is about configuration file and map parsing, ray-casting principles, efficient use of the mlx library for graphics, handling keyboard and mouse events for navigation, and texture mapping for wall surfaces. |
-| 05 | [CPP00](https://github.com/Dsite42/CPP00) | C++ | 42 Project - CPP00 - This is the first module of C++ and designed to understand the specifities of the language compared to C. Time to dive into Object Oriented Programming! The module is about Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff. |
-| 05 | [CPP01](https://github.com/Dsite42/CPP01) | C++ | 42 Project - CPP01 - This module is about memory allocation, pointers to members, references and switch statement. |
-| 05 | [CPP02](https://github.com/Dsite42/CPP02) | C++ | 42 Project - CPP02 - This module is about ad-hoc polymorphism, operator overloading and Orthodox Canonical class form. |
-| 05 | [CPP03](https://github.com/Dsite42/CPP03) | C++ | 42 Project - CPP03 - This module is about Inheritance. |
-| 05 | [CPP04](https://github.com/Dsite42/CPP04) | C++ | 42 Project - CPP04 - This modul is about subtype polymorphism, abstract classes, interfaces. |
+| 04 | [CPP00](https://github.com/Dsite42/CPP00) | C++ | 42 Project - CPP00 - This is the first module of C++ and designed to understand the specifities of the language compared to C. Time to dive into Object Oriented Programming! The module is about Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff. |
+| 04 | [CPP01](https://github.com/Dsite42/CPP01) | C++ | 42 Project - CPP01 - This module is about memory allocation, pointers to members, references and switch statement. |
+| 04 | [CPP02](https://github.com/Dsite42/CPP02) | C++ | 42 Project - CPP02 - This module is about ad-hoc polymorphism, operator overloading and Orthodox Canonical class form. |
+| 04 | [CPP03](https://github.com/Dsite42/CPP03) | C++ | 42 Project - CPP03 - This module is about Inheritance. |
+| 04 | [CPP04](https://github.com/Dsite42/CPP04) | C++ | 42 Project - CPP04 - This modul is about subtype polymorphism, abstract classes, interfaces. |
 | 05 | [CPP05](https://github.com/Dsite42/CPP05) | C++ | 42 Project - CPP05 - This module is about to understand Try/Catch and Exceptions. |
 | 05 | [CPP06](https://github.com/Dsite42/CPP06) | C++ | 42 Project - CPP06 - This module is about the different cast types in CPP. |
 | 05 | [CPP07](https://github.com/Dsite42/CPP07) | C++ | 42 Project - CPP07 - This module is about Templates in CPP. |
