@@ -19,6 +19,7 @@
 | 05 | [CPP05](https://github.com/Dsite42/CPP05) | C++ | 42 Project - CPP05 - This module is about to understand Try/Catch and Exceptions. |
 | 05 | [CPP06](https://github.com/Dsite42/CPP06) | C++ | 42 Project - CPP06 - This module is about the different cast types in CPP. |
 | 05 | [CPP07](https://github.com/Dsite42/CPP07) | C++ | 42 Project - CPP07 - This module is about Templates in CPP. |
+| 05 | [CPP08](https://github.com/Dsite42/CPP08) | C++ | 42 Project - CPP08 - This project is about templated containers, iterators and algorithms in CPP. |
 
 <!--
 **Dsite42/Dsite42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
