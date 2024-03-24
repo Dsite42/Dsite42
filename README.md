@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Data Science
+| Nr. | Repository  | Language | Short Summary |
+|:----:|:-------:|:--------:|:-------------:|
+| 01 | [Capstone_Project_Rossmann](https://github.com/Dsite42/Capstone_Project_Rossmann) | Python | This is the final project of my 6-month training as a Certified Data Scientist at XDi - Experience Design Institut GmbH. / Determine the key factors that influence sales and revenue / Create strategies for the management to improve the business / Build a standardized forecasting model which can predict the sales figures for the next eight weeks for each store. / Generate a report with information on the overall performance of the 1115 stores as well as individual performance reports for each store. |
+| 02 | [Simple_Data_Visualizer](https://github.com/Dsite42/Simple_Data_Visualizer) | Python | tbd |
+
+
+## 42Wolfsburg - Student Software Engineering
+
 | Rank | Project | Language | Short Summary |
 |:----:|:-------:|:--------:|:-------------:|
 | 00 | [libft](https://github.com/Dsite42/Libft) | C | 42 Project - Libft - This project is about to write our own version of a set of functions from the standard libc and also some that are either not in the libc, or that are part of it but in a different form. |
