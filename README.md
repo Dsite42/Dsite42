@@ -4,7 +4,7 @@
 | Nr. | Repository  | Language | Short Summary |
 |:----:|:-------:|:--------:|:-------------:|
 | 01 | [Capstone_Project_Rossmann](https://github.com/Dsite42/Capstone_Project_Rossmann) | Python | This is the final project of my 6-month training as a Certified Data Scientist at XDi - Experience Design Institut GmbH. / Determine the key factors that influence sales and revenue / Create strategies for the management to improve the business / Build a standardized forecasting model which can predict the sales figures for the next eight weeks for each store. / Generate a report with information on the overall performance of the 1115 stores as well as individual performance reports for each store. |
-| 02 | [Simple_Data_Visualizer](https://github.com/Dsite42/Simple_Data_Visualizer) | Python | tbd |
+| 02 | [Simple_Data_Visualizer](https://github.com/Dsite42/Simple_Data_Visualizer) | Python | This is a simple tool to visualize data for a quick Exploratory Data Analysis (EDA). You can create various plot types as seaborn or plotly plot via a GUI in multiple windows. (RelPlot, PairPlot, JointPlot, DisPlot, CatPlot, LmPlot, 3DPlot) |
 
 
 ## 42Wolfsburg - Student Software Engineering
@@ -29,18 +29,8 @@
 | 05 | [CPP06](https://github.com/Dsite42/CPP06) | C++ | 42 Project - CPP06 - This module is about the different cast types in CPP. |
 | 05 | [CPP07](https://github.com/Dsite42/CPP07) | C++ | 42 Project - CPP07 - This module is about Templates in CPP. |
 | 05 | [CPP08](https://github.com/Dsite42/CPP08) | C++ | 42 Project - CPP08 - This project is about templated containers, iterators and algorithms in CPP. |
-
+| 05| CPP09 | C++ | tbd |
+| 05| webserv | C++ | tbd |
+| 05| inception | dockerfile | tbd |
+| 06| ft_transcendence | C++ | tbd |
 <!--
-**Dsite42/Dsite42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
