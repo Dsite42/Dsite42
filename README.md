@@ -5,7 +5,7 @@
 |:----:|:-------:|:--------:|:-------------:|
 | 01 | [Capstone_Project_Rossmann](https://github.com/Dsite42/Capstone_Project_Rossmann) | Python | This is the final project of my 6-month training as a Certified Data Scientist at XDi - Experience Design Institut GmbH. / Determine the key factors that influence sales and revenue / Create strategies for the management to improve the business / Build a standardized forecasting model which can predict the sales figures for the next eight weeks for each store. / Generate a report with information on the overall performance of the 1115 stores as well as individual performance reports for each store. |
 | 02 | [Simple_Data_Visualizer](https://github.com/Dsite42/Simple_Data_Visualizer) | Python | This is a simple tool to visualize data for a quick Exploratory Data Analysis (EDA). You can create various plot types as seaborn or plotly plot via a GUI in multiple windows. (RelPlot, PairPlot, JointPlot, DisPlot, CatPlot, LmPlot, 3DPlot) |
-| 03 | [Light_Intesity_Anomaly Detection_with_tflite-micro](https://github.com/Dsite42/light_intesity_anomaly_detection_with_tflite-micro) | Python, C++ | Running a machine learning model on an edge device (arduino) with TensorFlow Lite for microcontrollers. |
+| 03 | [Light_Intensity_Anomaly Detection_with_tflite-micro](https://github.com/Dsite42/light_intensity_anomaly_detection_with_tflite-micro) | Python, C++ | Running a machine learning model on an edge device (arduino) with TensorFlow Lite for microcontrollers. |
 
 
 ## 42Wolfsburg - Student Software Engineering
